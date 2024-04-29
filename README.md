@@ -7,7 +7,7 @@ This GitHub hosts primarily educational projects from "42," showcasing my ongoin
 Skills: 🔨  C
         🐧  Linux
         🐍  Python (also Matlab)
-        🚧  C++ (WIP) 🚧
+        🚧  C++ (WIP)
 
 - 🔭 I’m currently working on C++ educational projects. 
 - 🌱 I’m currently improving my skills in Python.
