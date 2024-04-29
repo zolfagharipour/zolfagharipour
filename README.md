@@ -1,11 +1,14 @@
 ### Hi there 👋, my name is Mohamad
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: C / Linux / C++ / python
+Skills: 🔨  C
+        🐧  Linux
+        🐍  Python
+        🚧  C++  🚧
 
 - 🔭 I’m currently working on C++ educational projects. 
-- 🌱 I’m currently learning Python 
-- ⚡ Fun fact: Gaming and coding are equally fun. 
+- 🌱 I’m currently improving my skills in Python.
+- ⚡ Fun fact: Gaming and coding are equally fun.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolfagharipour&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile&theme=calm_pink)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolfagharipour&layout=donut&theme=calm_pink)](https://github.com/zolfagharipour/github-readme-stats)
