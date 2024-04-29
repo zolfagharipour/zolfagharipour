@@ -1,11 +1,13 @@
-### Hello adventurer 👋, my name is Mohamad.
+### Hello adventurer 👋
+I'm Mohamad! My fascination with programming began at age 12, starting with QBasic and Visual Basic. During my mathematics studies at university, I embraced Python 🐍 and MATLAB, continually connecting theoretical knowledge with practical applications. More recently, I've been enhancing my technical skills at "42" coding school, focusing on C, Linux 🐧, and Shell.
 
+This GitHub hosts primarily educational projects from "42," showcasing my ongoing learning and my efforts to deepen my understanding of complex programming concepts. Take a look around to see my progress and explorations in the tech world!
 
 
 Skills: 🔨  C
         🐧  Linux
-        🐍  Python
-        🚧  C++  🚧
+        🐍  Python (also Matlab)
+        🚧  C++ (WIP) 🚧
 
 - 🔭 I’m currently working on C++ educational projects. 
 - 🌱 I’m currently improving my skills in Python.
