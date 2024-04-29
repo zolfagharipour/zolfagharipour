@@ -2,5 +2,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolfagharipour&layout=donut&theme=calm_pink)](https://github.com/zolfagharipour/github-readme-stats)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/zolfagharipour/count.svg" />
 </p>
