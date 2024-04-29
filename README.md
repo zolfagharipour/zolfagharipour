@@ -7,7 +7,7 @@ This GitHub hosts primarily educational projects from "42," showcasing my ongoin
 Skills I'm currently sharpening: 🔨  C
                                 🐧  Linux
                                 🌿  GIT
-                                🐍  Python (also Matlab)
+                                🐍  Python
                                 🤖  C++ (WIP)
 
 - 🔭 I’m currently learning C++ for the first time.
