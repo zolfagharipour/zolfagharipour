@@ -3,13 +3,13 @@ I'm Mohamad! This GitHub hosts primarily educational projects from "42," showcas
 
 
 Skills I'm currently sharpening: 🔨  C
+                                🤖  C++
                                 🐧  Linux
+                                🐋  Docker
                                 🌿  GIT
                                 🐍  Python
-                                🤖  C++ (WIP)
 
-- 🔭 I’m currently learning C++ for the first time.
-- 🌱 I’m currently improving my skills in Python.
+- 🔭 I’m currently learning C++ by building an IRC server.
 - ⚡ Fun fact: Gaming and coding can produce equal amount of dopamine.
 
 
