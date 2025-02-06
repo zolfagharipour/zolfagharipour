@@ -9,7 +9,7 @@ Skills I'm currently sharpening: 🔨  C
                                 🌿  GIT
                                 🐍  Python
 
-- 🔭 I’m currently learning C++ by building an IRC server.
+- 🔭 I’m currently learning Django-python by building various small projects.
 - ⚡ Fun fact: Gaming and coding can produce equal amount of dopamine.
 
 
