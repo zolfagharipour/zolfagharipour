@@ -3,13 +3,12 @@ I'm Mohamad! This GitHub hosts primarily educational projects from "42," showcas
 
 
 
-## Skills I've sharpened: 🔨  C
+Skills I've sharpened: 🔨  C
                        🤖  C++
                        🐧  Linux
                        🐋  Docker
                        🌿  GIT
-
-## Skills I'm currently sharpening: ⚡  TypeScript
+Skills I'm currently sharpening: ⚡  TypeScript
                                  🐍  Python
                                  🌐  Databases
                                  🔗  APIs
