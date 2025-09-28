@@ -9,7 +9,7 @@ Skills I've sharpened: 🔨  C
 
 Skills I'm currently sharpening: ⚡  TypeScript
                                  🐍  Python
-                                 🌐  Databases (PostgreSQL)
+                                 🌐  Databases
                                  🔗  APIs
                                  💬  WebSockets
 - ⚡ Fun fact: Gaming and coding can produce equal amount of dopamine.
