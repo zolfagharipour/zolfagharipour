@@ -13,9 +13,4 @@ Skills I'm currently sharpening:
 
 ---
 
-### 👀 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?username=zolfagharipour&color=blueviolet&style=for-the-badge)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolfagharipour&layout=compact&theme=calm_pink)](https://github.com/zolfagharipour/github-readme-stats)
