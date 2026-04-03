@@ -14,12 +14,3 @@ Skills I'm currently sharpening:
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zolfagharipour&theme=tokyonight)
-
-
-## Tech
-![C](https://img.shields.io/badge/C-Expert-informational)
-![C++](https://img.shields.io/badge/C%2B%2B-Strong-informational)
-![TypeScript](https://img.shields.io/badge/TypeScript-Active-informational)
-![Python](https://img.shields.io/badge/Python-Working%20knowledge-informational)
-![Docker](https://img.shields.io/badge/Docker-Daily-blue)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Debian-yellowgreen)
