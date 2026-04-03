@@ -14,9 +14,3 @@ Skills I'm currently sharpening:
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zolfagharipour&theme=tokyonight)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/zolfagharipour/your-repo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolfagharipour&layout=compact&theme=calm_pink&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolfagharipour&layout=compact&theme=calm_pink)](https://github.com/zolfagharipour/github-readme-stats)
